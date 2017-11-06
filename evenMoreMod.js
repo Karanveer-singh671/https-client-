@@ -41,5 +41,6 @@ https.get(options, function(response) {  // anon function
 function printHTML (html) {
   console.log(html);}
 
-getHTML('sytantris.github.io','/http-examples/step2.html', printHTML);
+getHTML('sytantris.github.io','/http-examples/step4.html', printHTML);
 // console log automatically adds a new line
+
